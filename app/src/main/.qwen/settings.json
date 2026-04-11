@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(C:\\Develop\\Android\\ComfySorter/**)",
+      "Read(C:\\Develop\\Android\\ComfySorter\\app/**)",
+      "Read(C:\\Develop\\Python\\ComfyFileSorter\\ComfyFileSorter/**)",
+      "Read(C:\\Develop\\Python\\ComfyFileSorter\\ComfyFileSorter\\backend/**)",
+      "Bash(gradlew.bat *)",
+      "Bash(java *)",
+      "Bash(dir *)",
+      "Bash(\"c:\\program files\\android\\android studio\\jbr\\bin\\java\" *)",
+      "Bash(\"c:\\progra~1\\android\\androi~1\\jbr\\bin\\java.exe\" *)",
+      "Bash(set *)",
+      "Bash(call *)",
+      "Bash(cd *)"
+    ]
+  },
+  "$version": 3
+}
