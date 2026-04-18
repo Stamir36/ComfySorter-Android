@@ -3,9 +3,10 @@
 > 📱 Android mobile client for [ComfyFileSorter](https://github.com/Stamir36/ComfyFileSorter) — a powerful local gallery manager for ComfyUI generations.
 >
 > 📖 **[Описание на русском](README_RU.md)** — читать на русском языке.
+## 📥 Download
+You can download the latest APK from the [Releases page](https://github.com/Stamir36/ComfySorter-Android/releases).
 
 ---
-
 Android application for browsing and managing files from your ComfyUI server. Scan QR codes, view images and videos, explore generation metadata, and download files — all from your phone.
 
 ## Prerequisites
