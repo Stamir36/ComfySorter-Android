@@ -3,6 +3,8 @@
 > 📱 Мобильный Android-клиент для [ComfyFileSorter](https://github.com/Stamir36/ComfyFileSorter) — мощного локального менеджера галереи для генераций ComfyUI.
 >
 > 📖 **[English README](README.md)** — read in English.
+## 📥 Download
+You can download the latest APK from the [Releases page](https://github.com/Stamir36/ComfySorter-Android/releases).
 
 ---
 
