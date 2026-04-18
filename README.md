@@ -16,7 +16,7 @@ This app is a **client** and requires [ComfyFileSorter](https://github.com/Stami
 
 | Gallery Interface | Filter & Sort | Image Viewer & Metadata |
 | :---: | :---: | :---: |
-| ![Gallery Interface](https://raw.githubusercontent.com/Stamir36/ComfySorter-Android/main/build/Home.png) | ![Filters](https://raw.githubusercontent.com/Stamir36/ComfySorter-Android/main/build/Filter.png) | ![Image Viewer](https://raw.githubusercontent.com/Stamir36/ComfySorter-Android/main/build/Image.png) |
+| ![Gallery Interface](https://raw.githubusercontent.com/Stamir36/ComfySorter-Android/main/gradle/Home.png) | ![Filters](https://raw.githubusercontent.com/Stamir36/ComfySorter-Android/main/gradle/Filter.png) | ![Image Viewer](https://raw.githubusercontent.com/Stamir36/ComfySorter-Android/main/gradle/Image.png) |
 | Browse folders and your generated artworks | Flexible sorting and display settings | Fullscreen viewing with generation parameters |
 
 
