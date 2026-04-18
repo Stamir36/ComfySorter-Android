@@ -12,11 +12,19 @@ Android application for browsing and managing files from your ComfyUI server. Sc
 
 This app is a **client** and requires [ComfyFileSorter](https://github.com/Stamir36/ComfyFileSorter) to be running on your PC or server.
 
+## Screenshots
+
+| Gallery Interface | Filter & Sort | Image Viewer & Metadata |
+| :---: | :---: | :---: |
+| ![Gallery Interface](https://raw.githubusercontent.com/Stamir36/ComfySorter-Android/main/build/Home.png) | ![Filters](https://raw.githubusercontent.com/Stamir36/ComfySorter-Android/main/build/Filter.png) | ![Image Viewer](https://raw.githubusercontent.com/Stamir36/ComfySorter-Android/main/build/Image.png) |
+| Browse folders and your generated artworks | Flexible sorting and display settings | Fullscreen viewing with generation parameters |
+
+
 **Setup ComfyFileSorter:**
 
 ```bash
 # Clone the repository
-git clone https://github.com/Stamir36/ComfyFileSorter.git
+git clone [https://github.com/Stamir36/ComfyFileSorter.git](https://github.com/Stamir36/ComfyFileSorter.git)
 cd ComfyFileSorter
 
 # Install dependencies
@@ -61,8 +69,8 @@ The server will start at `http://127.0.0.1:7865`. For remote/mobile access, use 
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ComfySorter.git
-cd ComfySorter
+git clone [https://github.com/Stamir36/ComfySorter-Android.git](https://github.com/Stamir36/ComfySorter-Android.git)
+cd ComfySorter-Android
 
 # Open in Android Studio or build from CLI
 ./gradlew assembleDebug
@@ -70,7 +78,7 @@ cd ComfySorter
 
 ## Project Structure
 
-```
+```text
 app/src/main/java/com/unesell/comfysorter/
 ├── MainActivity.kt          # Entry point & navigation
 ├── ServerListScreen.kt      # Server list screen
@@ -90,12 +98,6 @@ app/src/main/java/com/unesell/comfysorter/
 3. **Open this app** → tap "New Connection" → scan the QR code displayed by ComfyFileSorter.
 4. **Browse your gallery** — search, sort, and filter your generations.
 5. **Tap a file** to view it fullscreen — zoom in, view metadata, download, or share.
-
-## Screenshots
-
-| Server List | QR Scanner | Gallery | Image Viewer |
-|---|---|---|---|
-| Manage your server connections | Scan QR codes to connect | Browse, search, sort | Zoom, metadata, download |
 
 ## License
 
